@@ -58,7 +58,7 @@ RoomPlanTest is a SwiftUI-based iOS app that leverages Apple’s RoomPlan and Sw
 
 ---
 
-## 🎥 Screen Rec
+## 🎥 Screen Shots
 Recordings demonstrating the core flows of the app.
 
 | Room Plan Scan                                                                 | View Scanned Model                                                                |
@@ -67,7 +67,7 @@ Recordings demonstrating the core flows of the app.
 
 ---
 
-## 📸  Screen Shots
+## 📸  Screen Recs
 Still captures to illustrate UI elements in action.
 
 | Room Plan Scan                                                  | View Scanned Model                                       |
