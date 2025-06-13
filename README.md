@@ -67,7 +67,7 @@ Recordings demonstrating the core flows of the app.
 
 ---
 
-## 📸  Screen Rec
+## 📸  Screen Recs
 Still captures to illustrate UI elements in action.
 
 | Room Plan Scan                                                  | View Scanned Model                                       |
